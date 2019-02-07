@@ -1,0 +1,44 @@
+  {
+   "forms":[
+      {
+         "name":"LoginForm",
+         "controls":[
+            {
+               "type":"textbox",
+               "defaultValue":"",
+               "placeHolder":"Enter value"
+            },
+            {
+               "type":"textbox",
+               "defaultValue":"",
+               "placeHolder":"Enter value"
+            },
+          {
+            "type": "button",
+            "defaultValue": "",
+            "placeHolder": "LandingPage"
+          }
+         ]
+      },
+    {
+      "name": "LandingPage",
+      "controls": [
+        {
+          "type": "textbox",
+          "defaultValue": "",
+          "placeHolder": "Enter value"
+        },
+        {
+          "type": "textbox",
+          "defaultValue": "",
+          "placeHolder": "Enter value"
+        },
+        {
+          "type": "button",
+          "defaultValue": "",
+          "placeHolder": "LoginForm"
+        }
+      ]
+    }
+   ]
+}
